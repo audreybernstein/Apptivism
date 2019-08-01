@@ -701,6 +701,7 @@ We will discuss social, economic, and environmental sustainability as well as be
         <image name="profileIcon" width="673" height="673"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="bSg-x0-hjk"/>
         <segue reference="C8l-iq-ICb"/>
     </inferredMetricsTieBreakers>
 </document>

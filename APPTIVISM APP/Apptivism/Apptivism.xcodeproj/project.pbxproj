@@ -16,6 +16,7 @@
 		18E9C54122F3516D009974DE /* GenderEqualityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9C54022F3516D009974DE /* GenderEqualityViewController.swift */; };
 		18E9C54322F36279009974DE /* VarelaRound-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 18E9C54222F36279009974DE /* VarelaRound-Regular.otf */; };
 		18E9C54622F364E0009974DE /* REALApptivism.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E9C54422F364E0009974DE /* REALApptivism.storyboard */; };
+		18E9C54722F36944009974DE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18E7B9EE22F1D939005C28EC /* Info.plist */; };
 		18F97C1322F334D6004B376C /* EnvironmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F97C1222F334D6004B376C /* EnvironmentViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -139,6 +140,7 @@
 			files = (
 				18E9C54322F36279009974DE /* VarelaRound-Regular.otf in Resources */,
 				18E7B9ED22F1D939005C28EC /* LaunchScreen.storyboard in Resources */,
+				18E9C54722F36944009974DE /* Info.plist in Resources */,
 				18E9C54622F364E0009974DE /* REALApptivism.storyboard in Resources */,
 				18E7B9EA22F1D939005C28EC /* Assets.xcassets in Resources */,
 				18E7B9E522F1D934005C28EC /* Main.storyboard in Resources */,
